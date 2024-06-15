@@ -1,6 +1,6 @@
 # mpg
 
-A new Flutter project.
+I have built a mobile application using Flutter that leverages TensorFlow Lite models for two functionalities: fruit detection and MPG (miles per gallon) calculation. Flutter is an open-source framework designed specifically for crafting beautiful user interfaces that work seamlessly across various platforms including Android and iOS. TensorFlow Lite is a lightweight version of TensorFlow, enables to run machine learning models on mobile devices without requiring a lot of processing power. In this application, the fruit detection model likely takes an image as input and identifies the fruits present in the image. The MPG calculator, on the other hand takes in vehicle data and calculates the miles per gallon based on that information. Overall, This application demonstrates an interesting combination of machine learning and mobile development skills.
 
 ## Getting Started
 
